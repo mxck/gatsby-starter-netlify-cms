@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: Hello
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -11,6 +10,13 @@ description: >-
   anyone.
 intro:
   blurbs:
+    - image: /img/meeting-space.png
+      text: >
+        We believe that good coffee has the power to bring people together.
+        That’s why we decided to turn a corner of our shop into a cozy meeting
+        space where you can hang out with fellow coffee lovers and learn about
+        coffee making techniques. All of the artwork on display there is for
+        sale. The full price you pay goes to the artist.
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -31,14 +37,7 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: AsdfFasd
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -69,7 +68,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/my-neighbour-totoro-1108x0-c-default.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
